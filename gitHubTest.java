@@ -3,7 +3,7 @@ public class gitHubTest {
         System.out.println("Hello GitHub");
 
 
-        System.out.println("hihi");
+        System.out.println("hi");
     }
 }
 
